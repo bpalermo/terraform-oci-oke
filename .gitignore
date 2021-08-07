@@ -13,4 +13,6 @@ provider.tf
 generated/**
 
 # visual code
- **/.vscode/*
+**/.vscode/*
+
+.idea
